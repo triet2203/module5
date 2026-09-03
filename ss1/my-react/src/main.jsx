@@ -7,6 +7,6 @@ import SignInForm from "./lessons/ss1_ReactJs/SignInForm.jsx";
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <SignInForm />
+    <App />
   </StrictMode>,
 )
